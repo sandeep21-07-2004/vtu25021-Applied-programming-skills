@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/sandeep21-07-2004/vtu25021-Applied-programming-skills/tree/master/0075-sort-colors) |
+| [0142-linked-list-cycle-ii](https://github.com/sandeep21-07-2004/vtu25021-Applied-programming-skills/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/sandeep21-07-2004/vtu25021-Applied-programming-skills/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/sandeep21-07-2004/vtu25021-Applied-programming-skills/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/sandeep21-07-2004/vtu25021-Applied-programming-skills/tree/master/0977-squares-of-a-sorted-array) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/sandeep21-07-2004/vtu25021-Applied-programming-skills/tree/master/0142-linked-list-cycle-ii) |
 | [0219-contains-duplicate-ii](https://github.com/sandeep21-07-2004/vtu25021-Applied-programming-skills/tree/master/0219-contains-duplicate-ii) |
 ## Sliding Window
 |  |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/sandeep21-07-2004/vtu25021-Applied-programming-skills/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/sandeep21-07-2004/vtu25021-Applied-programming-skills/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/sandeep21-07-2004/vtu25021-Applied-programming-skills/tree/master/0025-reverse-nodes-in-k-group) |
+| [0142-linked-list-cycle-ii](https://github.com/sandeep21-07-2004/vtu25021-Applied-programming-skills/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/sandeep21-07-2004/vtu25021-Applied-programming-skills/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/sandeep21-07-2004/vtu25021-Applied-programming-skills/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/sandeep21-07-2004/vtu25021-Applied-programming-skills/tree/master/0876-middle-of-the-linked-list) |
