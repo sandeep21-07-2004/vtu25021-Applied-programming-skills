@@ -1,11 +1,12 @@
-class Solution:
-    def scoreOfString(self, s: str) -> int:
-      
-        ans=0
-        for i in range(len(s)-1):
-            a=ord(s[i])
-            b=ord(s[i+1])
-            temp = abs(a-b)
-            ans = ans+temp
-      
-        return ans    
+class Solution {
+    public int scoreOfString(String s) {
+        int score = 0;
+
+        for (int i = 0; i < s.length() - 1; i++) {
+            score += Math.abs(s.charAt(i) - s.charAt(i + 1));
+        }
+
+        return score;
+    }
+}
+ 
